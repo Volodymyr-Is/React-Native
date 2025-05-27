@@ -1,0 +1,51 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "React Native Basics",
+      "author": "John",
+      "rating": 4.5,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Closed_Book_Icon.svg/1024px-Closed_Book_Icon.svg.png",
+      "price": 29.99,
+      "description": "React Native Basics.",
+      "topics": [
+        "React",
+        "JavaScript",
+        "Mobile Development"
+      ],
+      "duration": "10 hours",
+      "level": "Beginer"
+    },
+    {
+      "id": "2",
+      "title": "Intermediate JavaScript",
+      "author": "Bob",
+      "rating": 4.8,
+      "image": "https://cdn-icons-png.flaticon.com/512/3616/3616898.png",
+      "price": 49.99,
+      "description": "Intermediate JavaScript.",
+      "topics": [
+        "ES6",
+        "Async/Await",
+        "Functional Programming"
+      ],
+      "duration": "15 hours",
+      "level": "Intermediate"
+    },
+    {
+      "id": "3",
+      "title": "Advanced TypeScript",
+      "author": "Alice",
+      "rating": 4.4,
+      "image": "https://cdn-icons-png.flaticon.com/512/806/806169.png",
+      "price": 59.75,
+      "description": "Advanced TypeScript.",
+      "topics": [
+        "OOP",
+        "Functional Programming"
+      ],
+      "duration": "18 hours",
+      "level": "Advanced"
+    }
+  ]
+}
